@@ -6,14 +6,14 @@ document.addEventListener("DOMContentLoaded", function () {
   particlesJS('particles-js', {
   "particles": {
     "number": {
-      "value": 67,
+      "value": 159,
       "density": {
         "enable": true,
         "value_area": 800
       }
     },
     "color": {
-      "value": "#ffff85"
+      "value": "#f34585"
     },
     "shape": {
       "type": "circle",
