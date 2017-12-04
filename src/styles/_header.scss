@@ -2,13 +2,14 @@
   /* background: $main; */
   background-color: #b61924;
   display: flex;
-  vertical-align: top /* needs to be bottom mr marco m8 */;
+  vertical-align: bottom /* needs to be bottom mr marco m8 */;
   width: 100%;
   min-height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
   .particles-js-canvas-el {
+    background-color: #b61924 !important;
     width:100% !important;
     height:100vh !important;
   }
