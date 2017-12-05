@@ -3749,7 +3749,7 @@ sup {
     }
 }
 #particles-js {
-    background: #{{ site.color.primary }};
+    background: #f64c72;
     display: flex;
     vertical-align: bottom;
     width: 100%;
