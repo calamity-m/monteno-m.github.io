@@ -62,7 +62,7 @@ hr.star-light {
 }
 
 hr.star-light:after {
-    color: #F64C72 /* #fff */;
+    color: #fff;
     background-color: #{{ site.color.primary }};
 }
 
@@ -167,6 +167,7 @@ header .intro-text .skills {
 
 .navbar-default,
 .navbar-inverse {
+    color: #F64C72;
     border: 0;
 }
 
