@@ -3749,7 +3749,7 @@ sup {
     }
 }
 #particles-js {
-    background: #{{site.particlebg}};
+    background: #f64c72;
     display: flex;
     vertical-align: bottom;
     width: 100%;
@@ -3985,7 +3985,7 @@ body {
     transition: color .3s ease-in, background-color .3s ease-in, border-color .3s ease-in
 }
 .footer {
-    background: #{{site.footerbg}};
+    background: #f64c72;
     padding: 10px 0;
     margin-top: 100px;
     text-align: center;
