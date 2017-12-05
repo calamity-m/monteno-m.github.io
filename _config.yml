@@ -15,11 +15,11 @@ github_username:  monteno-m
 gplus_username:  lorem_ipsum
 
 # Colors
-particlebg: f64c72
-footerbg: f64c72
-primary: #f64c72
-secondary: #f64c72
-highlight: #f64c72
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
 
 # Google-analytics
 google-analytics:
