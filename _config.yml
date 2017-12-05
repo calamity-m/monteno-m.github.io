@@ -45,8 +45,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: a
-  - line: a
+  - line: Canberra, ACT
 
 # Credits content
 credits: 'Built with Jeykll and Bootstrap. Theme designed by @ <a href="http://startbootstrap.com">Start Bootstrap</a>.'
