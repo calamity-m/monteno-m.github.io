@@ -3969,7 +3969,7 @@ body {
     padding: 5px;
     color: #1a222c;
     background-color: transparent;
-    border: 1px solid #1a222c;
+    border: 1px solid #f64c72;
     border-radius: 10px;
     text-align: center;
     outline: none;
@@ -3979,8 +3979,8 @@ body {
 }
 .project-link:active,
 .project-link:hover {
-    background-color: #54516a;
-    border-color: #54516a;
+    background-color: #f64c72;
+    border-color: #f64c72;
     color: #fff;
     transition: color .3s ease-in, background-color .3s ease-in, border-color .3s ease-in
 }
