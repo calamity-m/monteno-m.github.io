@@ -1,55 +1,20 @@
 # Site settings
-title: Mark Monteno
-email: markmonteno@gmail.com
-description: "Software developer portfolio for Mark Monteno showcasing featured projects"
-keywords: "Software, Software Developer, Progammer, Networking, Computer Security, 3D, Graphics, Video Games"
-skills: "Software Developer"
-meta_author: Monteno Mark
+title: A blog about lorem ipsum dolor sit amet
+description: A blog about lorem ipsum dolor sit amet
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
-# Contact form:
-# - static : pass through formspree.io to validate email sending
-# - disqus : replace contact form by disqus thread
-# - comment the line below if you want to stick with the default PHP contact form
-contact: static
+# User settings
+username: Anon Developer
+user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+user_title: Software Developer
+email: anon@anon.com
+twitter_username: lorem_ipsum
+github_username:  lorem_ipsum
+gplus_username:  lorem_ipsum
 
-# If you use disqus you need disqus shortname
-# https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+# Google-analytics
+google-analytics:
+  id: ""
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: 0E181C #4C585D #80B3FF
-  primary-rgb: "246,76,114" #"128,179,255"
-  secondary: 0E181C #FD6E8A
-  secondary-dark: 081317 #A2122F
-
-# Footer settings
-footer:
-  copyright: Mark Monteno
-  location: Australia
-  social: Social Media
-  credits: Credits
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: https://github.com/monteno-m
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: Canberra, ACT
-
-# Credits content
-credits: 'Built with Jeykll and Bootstrap. Theme designed by @ <a href="http://startbootstrap.com">Start Bootstrap</a>.'
-
-# Build settings
-markdown: kramdown
-permalink: pretty
+exclude: ['package.json', 'src' , 'node_modules']
