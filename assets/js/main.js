@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function() {
      particlesJS("particles-js", {
          particles: {
              number: {
-                 value: 30,
+                 value: 150,
                  density: {
                      enable: !0,
                      value_area: 800
@@ -29,12 +29,12 @@ document.addEventListener("DOMContentLoaded", function() {
              },
              opacity: {
                  value: .5,
-                 random: !1,
+                 random: false,
                  anim: {
-                     enable: !1,
-                     speed: 1,
-                     opacity_min: .1,
-                     sync: !1
+                     enable: true,
+                     speed: 0.2,
+                     opacity_min: 0,
+                     sync: false
                  }
              },
              size: {
@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", function() {
                  }
              },
              line_linked: {
-                 enable: !0,
+                 enable: false,
                  distance: 150,
                  color: "#ffffff",
                  opacity: .4,
@@ -56,7 +56,7 @@ document.addEventListener("DOMContentLoaded", function() {
              },
              move: {
                  enable: !0,
-                 speed: 4,
+                 speed: 1,
                  direction: "none",
                  random: !0,
                  straight: !1,
@@ -75,7 +75,7 @@ document.addEventListener("DOMContentLoaded", function() {
              events: {
                  onhover: {
                      enable: !1,
-                     mode: "grab"
+                     mode: "bubble"
                  },
                  onclick: {
                      enable: !0,
@@ -91,10 +91,10 @@ document.addEventListener("DOMContentLoaded", function() {
                      }
                  },
                  bubble: {
-                     distance: 400,
-                     size: 40,
+                     distance: 245,
+                     size: 2,
                      duration: 2,
-                     opacity: 8,
+                     opacity: 1,
                      speed: 3
                  },
                  repulse: {
