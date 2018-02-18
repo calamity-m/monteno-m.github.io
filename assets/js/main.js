@@ -29,12 +29,12 @@ document.addEventListener("DOMContentLoaded", function() {
              },
              opacity: {
                  value: .5,
-                 random: false,
+                 random: !1,
                  anim: {
-                     enable: true,
+                     enable: !0,
                      speed: 0.2,
                      opacity_min: 0,
-                     sync: false
+                     sync: !1
                  }
              },
              size: {
@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", function() {
                  }
              },
              line_linked: {
-                 enable: false,
+                 enable: !1,
                  distance: 150,
                  color: "#ffffff",
                  opacity: .4,
