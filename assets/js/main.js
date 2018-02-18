@@ -74,7 +74,7 @@ document.addEventListener("DOMContentLoaded", function() {
              detect_on: "window",
              events: {
                  onhover: {
-                     enable: !1,
+                     enable: !0,
                      mode: "bubble"
                  },
                  onclick: {
