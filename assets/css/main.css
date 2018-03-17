@@ -6853,11 +6853,11 @@ sup, sub {
 * {
   box-sizing: border-box; }
 
-h2 {
-  text-align: center;
-  margin-bottom: 50px;
-  color: #fff; }
-
+/*h2 {
+    text-align: center;
+    margin-bottom: 50px;
+    color: #fff;
+}*/
 /* form starting stylings ------------------------------- */
 .group {
   position: relative;
