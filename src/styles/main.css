@@ -3867,9 +3867,6 @@ sup, sub {
   text-align: center;
   margin: 5px auto; }
 
-* {
-  box-sizing: border-box; }
-
 /*h2 {
     text-align: center;
     margin-bottom: 50px;
