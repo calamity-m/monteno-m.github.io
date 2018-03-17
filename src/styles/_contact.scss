@@ -1,15 +1,21 @@
-﻿* {
-    box-sizing: border-box;
+﻿#contact {
+  width: 90%;
+  margin: 0 auto;
+  max-width: 960px;
+  @media only screen and (min-width: $cut) {
+    width: 80%;
+  }
 }
 
+* {
+    box-sizing: border-box;
+}
 
 h2 {
     text-align: center;
     margin-bottom: 50px;
     color: #fff;
 }
-
-
 
 /* form starting stylings ------------------------------- */
 .group {
