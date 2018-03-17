@@ -6821,14 +6821,6 @@ sup, sub {
     color: #fff;
     transition: color 0.3s ease-in, background-color 0.3s ease-in, border-color 0.3s ease-in; }
 
-#contact {
-  width: 90%;
-  margin: 0 auto;
-  max-width: 960px; }
-  @media only screen and (min-width: 550px) {
-    #contact {
-      width: 80%; } }
-
 .tech {
   margin: 10px; }
 
