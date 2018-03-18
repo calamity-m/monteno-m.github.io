@@ -6928,10 +6928,6 @@ header {
   width: 65%;
   margin: 50px auto 100px auto; }
 
-#submit-btn {
-  font-family: fontAwesome;
-  content: "\f067\00a0"; }
-
 input {
   font-family: 'Lato', sans-serif;
   font-size: 0.875em;
@@ -6965,6 +6961,8 @@ textarea {
   color: #726659;
   font-family: 'Lato', sans-serif;
   font-size: 0.875em;
+  font-family: fontAwesome;
+  content: "\f067\00a0";
   border: solid 1px #b3aca7;
   transition: all 0.3s ease-in-out;
   -webkit-transition: all 0.3s ease-in-out;
