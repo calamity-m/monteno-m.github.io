@@ -6942,7 +6942,9 @@ input {
   transition: all 0.3s ease-in-out;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
-  -ms-transition: all 0.3s ease-in-out; }
+  -ms-transition: all 0.3s ease-in-out;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box; }
 
 input:hover {
   background: #b3aca7;
@@ -6963,7 +6965,9 @@ textarea {
   transition: all 0.3s ease-in-out;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
-  -ms-transition: all 0.3s ease-in-out; }
+  -ms-transition: all 0.3s ease-in-out;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box; }
 
 textarea:hover {
   background: #b3aca7;
