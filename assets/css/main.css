@@ -6931,7 +6931,7 @@ header {
 input {
   font-family: 'Lato', sans-serif;
   font-size: 0.875em;
-  width: 93.5%;
+  width: 100%;
   height: 50px;
   padding: 0px 15px 0px 15px;
   background: transparent;
@@ -6951,10 +6951,10 @@ input:hover {
   color: #e2dedb; }
 
 textarea {
-  width: 93.5%;
+  width: 100%;
   max-width: 93.5%;
-  height: 110px;
-  max-height: 110px;
+  height: 150px;
+  max-height: 150px;
   padding: 15px;
   background: transparent;
   outline: none;
@@ -6974,7 +6974,7 @@ textarea:hover {
   color: #e2dedb; }
 
 #submit-btn {
-  width: 93.5%;
+  width: 100%;
   padding: 0;
   margin: -5px 0px 0px 0px;
   font-family: 'Lato', sans-serif;
