@@ -6913,9 +6913,6 @@ input:hover::placeholder, textarea:hover::placeholder {
 input:hover:focus::-ms-placeholder, textarea:hover::focus:-ms-placeholder {
   color: #cbc6c1; }
 
-body {
-  font-family: 'Lato', sans-serif; }
-
 header {
   position: relative;
   margin: 100px 0 25px 0;
