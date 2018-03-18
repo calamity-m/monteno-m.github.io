@@ -6977,8 +6977,9 @@ textarea:hover {
   width: 100%;
   padding: 0;
   margin: -5px 0px 0px 0px;
-  font-family: fontAwesome;
-  content: "\f067\00a0";
+  font-family: 'Lato', sans-serif;
+  font-size: 0.875em;
+  color: #b3aca7;
   outline: none;
   cursor: pointer;
   border: solid 1px #b3aca7;
