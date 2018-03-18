@@ -6952,9 +6952,9 @@ input:hover {
 
 textarea {
   width: 100%;
-  max-width: 93.5%;
-  height: 150px;
-  max-height: 150px;
+  max-width: 100%;
+  height: 155px;
+  max-height: 155px;
   padding: 15px;
   background: transparent;
   outline: none;
