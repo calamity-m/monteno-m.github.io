@@ -6851,6 +6851,10 @@ sup, sub {
   text-align: center;
   margin: 5px auto; }
 
+.contact-details {
+  text-align: center;
+  margin: 5px auto; }
+
 input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
   color: #aca49c;
   font-size: 0.875em; }

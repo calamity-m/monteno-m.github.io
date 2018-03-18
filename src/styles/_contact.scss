@@ -30,7 +30,14 @@
 .user-details {
   text-align: center;
   margin: 5px auto;
+}
+
+.contact-details {
+  text-align: center;
+  margin: 5px auto;
+  // margin -50px
 }   
+
 @import url(https://fonts.googleapis.com/css?family=Lato:100,300,400);
 
 input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
