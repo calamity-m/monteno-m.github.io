@@ -1,0 +1,45 @@
+#main article {
+	/* background-color: rgba(89, 255, 25, 0.5); */
+}
+
+#bg:after {
+	/* background-image: url('/images/2d.jpg'); */
+	/* background-image:none; */
+	/* Possibly put particlejs here */
+}
+
+/* Overwrite the image css */
+.image:before {
+	    -moz-pointer-events: none;
+	    -webkit-pointer-events: none;
+	    -ms-pointer-events: none;
+	    pointer-events: none;
+	    background-image: none;
+	    background-color: rgba(255, 255, 255, 0);
+	    border-radius: 4px;
+	    content: '';
+	    display: block;
+	    height: 100%;
+	    left: 0;
+	    opacity: 0.5;
+	    position: absolute;
+	    top: 0;
+	    width: 100%; 
+}
+
+i {
+	font-size: 5rem;
+}
+
+.skills {
+    /* background-color: rgba(89, 255, 25, 0.5); */
+    /* align-content: center */
+}
+
+#particles-js{
+	height: 100vh;
+	background-image: url('/images/bg1.jpg');
+	background-position:  center;
+    background-size:    cover;
+    background-repeat:    no-repeat;
+}
