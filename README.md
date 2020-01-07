@@ -1,5 +1,5 @@
 # monteno-m.github.io
-Personal portfolio website
+Personal portfolio website, now public repo because github free requires a public repo.
 
 Hugo commands needed
 ```
